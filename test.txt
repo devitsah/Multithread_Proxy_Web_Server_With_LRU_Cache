@@ -1,0 +1,7 @@
+Terminal-1:
+make
+./proxy 8080
+
+
+Terminal-2
+curl -x http://localhost:8080 http://example.com  
