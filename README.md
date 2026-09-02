@@ -1,1 +1,2 @@
-LRU Cache should Be Update.
+LRU Cache should Be update.
+Locking Concept also
